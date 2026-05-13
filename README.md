@@ -1,4 +1,5 @@
 # AI PEN — 智慧軌跡筆
+<img width="896" height="1195" alt="Gemini_Generated_Image_a84ghia84ghia84g" src="https://github.com/user-attachments/assets/d8fe6427-a152-48f7-a4f6-c781f322b7df" />
 
 以 YOLOv4-Tiny 為推論核心的手寫數學式辨識裝置。使用者以實體筆在空中或紙上書寫數字與運算符號，裝置即時辨識並在 OLED 顯示計算結果。
 
